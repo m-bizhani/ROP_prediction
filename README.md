@@ -1,5 +1,6 @@
-# ROP_prediction
-This repo is the results of drilling rate of penetration prediction on the MSEEL drilling dataset using various machine and deep learning models
+# Drilling rate of penetration (ROP) prediction using Bayesian neural networks
+This repo contain the results of drilling rate of penetration prediction on the MSEEL drilling dataset using various machine and deep learning models
 
-Codes will be posted soon...
+### Data 
+The original data for this work are publicaly avaiablae at [http://mseel.org/](http://mseel.org/)
 
